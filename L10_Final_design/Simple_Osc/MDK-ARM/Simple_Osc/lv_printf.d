@@ -1,0 +1,10 @@
+simple_osc\lv_printf.o: ..\lvgl_v8_3\src\misc\lv_printf.c
+simple_osc\lv_printf.o: ..\lvgl_v8_3\src\misc\lv_printf.h
+simple_osc\lv_printf.o: ..\lvgl_v8_3\src\misc\../lv_conf_internal.h
+simple_osc\lv_printf.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+simple_osc\lv_printf.o: ..\lvgl_v8_3\src\misc\../lv_conf_kconfig.h
+simple_osc\lv_printf.o: ../lvgl_v8_3/examples/porting/../../lv_conf.h
+simple_osc\lv_printf.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+simple_osc\lv_printf.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+simple_osc\lv_printf.o: ..\lvgl_v8_3\src\misc\lv_types.h
+simple_osc\lv_printf.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

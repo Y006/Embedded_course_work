@@ -1,0 +1,16 @@
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\gifdec.c
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\gifdec.h
+simple_osc\gifdec.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_fs.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+simple_osc\gifdec.o: ../lvgl_v8_3/examples/porting/../../lv_conf.h
+simple_osc\gifdec.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_log.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_types.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_mem.h
+simple_osc\gifdec.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+simple_osc\gifdec.o: D:\Program_Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_color.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_assert.h
+simple_osc\gifdec.o: ..\lvgl_v8_3\src\extra\libs\gif\../../../misc/lv_math.h
